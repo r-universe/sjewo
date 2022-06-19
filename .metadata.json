@@ -1,0 +1,10 @@
+[
+  {
+    "package": "cartogram",
+    "oncran": true
+  },
+  {
+    "package": "readstata13",
+    "oncran": true
+  }
+]
